@@ -87,4 +87,4 @@ async def bitcoin(ctx):
                   
 
     
-bot.run("NDAxMDc1ODg2MjA1NDM1OTA0.Daqxzg.ax2KBNqlEBDpuW1ZHOrIsxliAKo")
+bot.run("BOT_TOKEN")
